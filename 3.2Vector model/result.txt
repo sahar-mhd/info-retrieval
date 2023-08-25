@@ -1,0 +1,145 @@
+
+ query 1: 
+ Jaccard: [('Doc539', 0.03007518796992481), ('Doc905', 0.02857142857142857), ('Doc19', 0.024154589371980676), ('Doc18', 0.02100840336134454), ('Doc3', 0.015), ('Doc243', 0.013888888888888888), ('Doc820', 0.013793103448275862), ('Doc865', 0.013422818791946308), ('Doc306', 0.012903225806451613), ('Doc907', 0.012048192771084338)]1
+ Normalized tf: [('Doc19', 4.301029995663981), ('Doc539', 3.778151250383644), ('Doc820', 3.5440680443502757), ('Doc488', 3.4771212547196626), ('Doc243', 3.3010299956639813), ('Doc782', 3.3010299956639813), ('Doc905', 2.9542425094393248), ('Doc442', 2.9030899869919438), ('Doc18', 2.778151250383644), ('Doc143', 2.3010299956639813)]
+ query 2: 
+ Jaccard: [('Doc846', 0.1879432624113475), ('Doc328', 0.1111111111111111), ('Doc225', 0.09541984732824428), ('Doc391', 0.09473684210526316), ('Doc654', 0.09259259259259259), ('Doc264', 0.09090909090909091), ('Doc752', 0.0893854748603352), ('Doc564', 0.0891089108910891), ('Doc400', 0.08759124087591241), ('Doc844', 0.08737864077669903)]2
+ Normalized tf: [('Doc846', 12.431363764158988), ('Doc354', 5.789580712164426), ('Doc130', 5.741939077729199), ('Doc438', 5.568201724066995), ('Doc150', 5.453165392525857), ('Doc447', 5.301029995663981), ('Doc690', 5.260071387985075), ('Doc173', 5.072984744627931), ('Doc93', 4.918030336784881), ('Doc878', 4.812913356642856)]
+ query 3: 
+ Jaccard: [('Doc827', 0.10948905109489052), ('Doc197', 0.08536585365853659), ('Doc457', 0.08304498269896193), ('Doc12', 0.08187134502923976), ('Doc492', 0.07692307692307693), ('Doc288', 0.0718232044198895), ('Doc775', 0.07017543859649122), ('Doc131', 0.06722689075630252), ('Doc146', 0.06716417910447761), ('Doc741', 0.06666666666666667)]3
+ Normalized tf: [('Doc827', 7.15836249209525), ('Doc150', 6.531478917042255), ('Doc958', 6.374748346010104), ('Doc967', 6.357934847000454), ('Doc438', 6.23552844690755), ('Doc690', 6.107209969647869), ('Doc457', 6.021189299069938), ('Doc747', 5.6512780139981444), ('Doc362', 5.534026106056135), ('Doc910', 5.459392487759231)]
+ query 4: 
+ Jaccard: [('Doc936', 0.11949685534591195), ('Doc178', 0.11904761904761904), ('Doc139', 0.11794871794871795), ('Doc285', 0.11333333333333333), ('Doc834', 0.11229946524064172), ('Doc794', 0.11188811188811189), ('Doc683', 0.10970464135021098), ('Doc235', 0.10897435897435898), ('Doc724', 0.10738255033557047), ('Doc797', 0.10684931506849316)]4
+ Normalized tf: [('Doc797', 14.272096998770794), ('Doc33', 13.846720507775984), ('Doc438', 13.80096301721531), ('Doc442', 12.806179973983888), ('Doc150', 12.162033908849075), ('Doc690', 12.043723712126763), ('Doc245', 11.925901753823608), ('Doc173', 11.481975494688527), ('Doc130', 11.429429264381788), ('Doc967', 11.077597530018501)]
+ query 5: 
+ Jaccard: [('Doc671', 0.06930693069306931), ('Doc148', 0.046153846153846156), ('Doc338', 0.035), ('Doc990', 0.034220532319391636), ('Doc12', 0.029940119760479042), ('Doc959', 0.02875399361022364), ('Doc588', 0.028037383177570093), ('Doc29', 0.02631578947368421), ('Doc370', 0.025830258302583026), ('Doc684', 0.02577319587628866)]5
+ Normalized tf: [('Doc671', 4.778151250383644), ('Doc690', 4.380211241711606), ('Doc648', 4.2552725051033065), ('Doc362', 4.204119982655925), ('Doc852', 4.079181246047625), ('Doc979', 3.954242509439325), ('Doc72', 3.9030899869919438), ('Doc569', 3.9030899869919438), ('Doc180', 3.806179973983887), ('Doc481', 3.6020599913279625)]
+ query 6: 
+ Jaccard: [('Doc519', 0.17061611374407584), ('Doc602', 0.15384615384615385), ('Doc391', 0.13829787234042554), ('Doc328', 0.13529411764705881), ('Doc683', 0.13304721030042918), ('Doc148', 0.1323529411764706), ('Doc854', 0.13109756097560976), ('Doc264', 0.12941176470588237), ('Doc297', 0.128), ('Doc650', 0.12666666666666668)]6
+ Normalized tf: [('Doc519', 11.78354628227035), ('Doc788', 8.600820484917715), ('Doc245', 7.897846931579572), ('Doc153', 7.783903579272735), ('Doc101', 7.7724684030532805), ('Doc582', 7.695481676490198), ('Doc485', 7.431363764158988), ('Doc697', 7.218010042984364), ('Doc745', 7.096214585346406), ('Doc97', 7.087781417809543)]
+ query 7: 
+ Jaccard: [('Doc441', 0.09154929577464789), ('Doc426', 0.031496062992125984), ('Doc838', 0.027777777777777776), ('Doc954', 0.022900763358778626), ('Doc421', 0.022388059701492536), ('Doc864', 0.020338983050847456), ('Doc936', 0.0196078431372549), ('Doc773', 0.01904761904761905), ('Doc616', 0.01818181818181818), ('Doc185', 0.017341040462427744)]7
+ Normalized tf: [('Doc441', 6.681241237375588), ('Doc176', 4.2552725051033065), ('Doc761', 3.6020599913279625), ('Doc460', 2.9030899869919438), ('Doc822', 2.6020599913279625), ('Doc847', 2.4471580313422194), ('Doc156', 2.3010299956639813), ('Doc158', 2.3010299956639813), ('Doc477', 2.3010299956639813), ('Doc936', 2.3010299956639813)]
+ query 8: 
+ Jaccard: [('Doc418', 0.17563739376770537), ('Doc391', 0.1326530612244898), ('Doc854', 0.13253012048192772), ('Doc328', 0.13218390804597702), ('Doc683', 0.1308016877637131), ('Doc264', 0.12790697674418605), ('Doc297', 0.12598425196850394), ('Doc400', 0.12560386473429952), ('Doc148', 0.125), ('Doc650', 0.125)]8
+ Normalized tf: [('Doc438', 12.306347812779055), ('Doc418', 10.589726256254238), ('Doc442', 9.423245873936807), ('Doc980', 9.33645973384853), ('Doc413', 9.096910013008056), ('Doc150', 8.951881260840354), ('Doc21', 8.771851945203993), ('Doc173', 8.515343893088382), ('Doc405', 8.431363764158988), ('Doc969', 8.424881636631067)]
+ query 9: 
+ Jaccard: [('Doc226', 0.15384615384615385), ('Doc954', 0.15328467153284672), ('Doc478', 0.13793103448275862), ('Doc441', 0.13513513513513514), ('Doc773', 0.125), ('Doc240', 0.12389380530973451), ('Doc641', 0.1111111111111111), ('Doc459', 0.11046511627906977), ('Doc465', 0.10505836575875487), ('Doc142', 0.102803738317757)]9
+ Normalized tf: [('Doc822', 15.505584055799225), ('Doc226', 15.140633725134819), ('Doc442', 11.760422483423213), ('Doc176', 11.619093330626743), ('Doc967', 11.553514083599794), ('Doc150', 10.831255315204608), ('Doc270', 10.69196510276736), ('Doc173', 10.258733037212814), ('Doc289', 10.046729222266487), ('Doc782', 10.041218932612638)]
+ query 10: 
+ Jaccard: [('Doc264', 0.11504424778761062), ('Doc328', 0.11242603550295859), ('Doc824', 0.1050228310502283), ('Doc400', 0.097799511002445), ('Doc391', 0.0967741935483871), ('Doc225', 0.09615384615384616), ('Doc654', 0.09302325581395349), ('Doc752', 0.0903954802259887), ('Doc564', 0.09), ('Doc411', 0.08888888888888889)]10
+ Normalized tf: [('Doc238', 8.28330122870355), ('Doc362', 6.5031094366713695), ('Doc620', 5.357934847000454), ('Doc213', 5.2552725051033065), ('Doc400', 5.230448921378274), ('Doc895', 5.158362492095249), ('Doc583', 5.100370545117563), ('Doc854', 5.100370545117563), ('Doc824', 5.033423755486949), ('Doc523', 4.99563519459755)]
+ query 11: 
+ Jaccard: [('Doc122', 0.15771812080536912), ('Doc77', 0.14492753623188406), ('Doc328', 0.1411764705882353), ('Doc264', 0.1), ('Doc507', 0.09583333333333334), ('Doc225', 0.09578544061302682), ('Doc391', 0.09574468085106383), ('Doc315', 0.09403669724770643), ('Doc273', 0.09285714285714286), ('Doc654', 0.09280742459396751)]11
+ Normalized tf: [('Doc122', 14.404861072891052), ('Doc72', 9.707229419327295), ('Doc438', 8.64738297011462), ('Doc927', 8.141763230275789), ('Doc218', 7.500785172917456), ('Doc967', 6.375846436309156), ('Doc293', 6.24551266781415), ('Doc782', 5.986323777050766), ('Doc180', 5.959041392321094), ('Doc330', 5.886490725172482)]
+ query 12: 
+ Jaccard: [('Doc64', 0.20224719101123595), ('Doc455', 0.17777777777777778), ('Doc206', 0.16363636363636364), ('Doc134', 0.16129032258064516), ('Doc490', 0.15789473684210525), ('Doc641', 0.15789473684210525), ('Doc841', 0.15168539325842698), ('Doc774', 0.1484375), ('Doc231', 0.14691943127962084), ('Doc105', 0.14285714285714285)]12
+ Normalized tf: [('Doc176', 18.27114617887485), ('Doc231', 16.635483746814913), ('Doc270', 15.785853520357003), ('Doc134', 15.556302500767288), ('Doc237', 14.982271233039569), ('Doc64', 14.903089986991944), ('Doc206', 14.698970004336019), ('Doc488', 14.424417706094506), ('Doc438', 13.870619243217618), ('Doc291', 13.37267638951965)]
+
+Binary weighting: 
+
+query 1: 
+Document 20 score: 0.2070 , Document 540 score: 0.1269 , Document 244 score: 0.1230 , Document 303 score: 0.0917 , Document 783 score: 0.0884 , Document 366 score: 0.0867 , Document 19 score: 0.0801 , Document 866 score: 0.0797 , Document 747 score: 0.0741 , Document 156 score: 0.0730 , 
+query 2: 
+Document 847 score: 0.2197 , Document 686 score: 0.0965 , Document 692 score: 0.0721 , Document 546 score: 0.0637 , Document 519 score: 0.0621 , Document 451 score: 0.0590 , Document 260 score: 0.0588 , Document 700 score: 0.0587 , Document 601 score: 0.0576 , Document 771 score: 0.0570 , 
+query 3: 
+Document 828 score: 0.1797 , Document 28 score: 0.1231 , Document 208 score: 0.1231 , Document 52 score: 0.1179 , Document 979 score: 0.1152 , Document 422 score: 0.1147 , Document 164 score: 0.1125 , Document 214 score: 0.1115 , Document 918 score: 0.1074 , Document 662 score: 0.1061 , 
+query 4: 
+Document 798 score: 0.2104 , Document 346 score: 0.1633 , Document 140 score: 0.1514 , Document 451 score: 0.1482 , Document 999 score: 0.1384 , Document 74 score: 0.1319 , Document 454 score: 0.1312 , Document 835 score: 0.1298 , Document 922 score: 0.1298 , Document 850 score: 0.1291 , 
+query 5: 
+Document 672 score: 0.2195 , Document 30 score: 0.1627 , Document 400 score: 0.1405 , Document 570 score: 0.1171 , Document 972 score: 0.1109 , Document 539 score: 0.1078 , Document 913 score: 0.1078 , Document 995 score: 0.1078 , Document 643 score: 0.1061 , Document 240 score: 0.1037 , 
+query 6: 
+Document 520 score: 0.2284 , Document 707 score: 0.1369 , Document 30 score: 0.1328 , Document 6 score: 0.1277 , Document 240 score: 0.1270 , Document 603 score: 0.1250 , Document 715 score: 0.1244 , Document 273 score: 0.1195 , Document 171 score: 0.1137 , Document 808 score: 0.1137 , 
+query 7: 
+Document 442 score: 0.2810 , Document 795 score: 0.1378 , Document 955 score: 0.1344 , Document 721 score: 0.1291 , Document 617 score: 0.1275 , Document 159 score: 0.1244 , Document 771 score: 0.1231 , Document 937 score: 0.1231 , Document 762 score: 0.1179 , Document 598 score: 0.1166 , 
+query 8: 
+Document 419 score: 0.2034 , Document 586 score: 0.2010 , Document 74 score: 0.1886 , Document 10 score: 0.1741 , Document 598 score: 0.1723 , Document 274 score: 0.1718 , Document 388 score: 0.1599 , Document 280 score: 0.1595 , Document 410 score: 0.1563 , Document 412 score: 0.1508 , 
+query 9: 
+Document 227 score: 0.2865 , Document 955 score: 0.2648 , Document 558 score: 0.2249 , Document 479 score: 0.2091 , Document 442 score: 0.2075 , Document 426 score: 0.2015 , Document 617 score: 0.1884 , Document 133 score: 0.1828 , Document 987 score: 0.1827 , Document 56 score: 0.1791 , 
+query 10: 
+Document 239 score: 0.1508 , Document 913 score: 0.1447 , Document 401 score: 0.1281 , Document 275 score: 0.1257 , Document 825 score: 0.1246 , Document 711 score: 0.1134 , Document 214 score: 0.1122 , Document 146 score: 0.1099 , Document 584 score: 0.1099 , Document 524 score: 0.1067 , 
+query 11: 
+Document 123 score: 0.1516 , Document 78 score: 0.1380 , Document 994 score: 0.1029 , Document 274 score: 0.0930 , Document 365 score: 0.0923 , Document 5 score: 0.0856 , Document 928 score: 0.0706 , Document 686 score: 0.0695 , Document 265 score: 0.0685 , Document 176 score: 0.0683 , 
+query 12: 
+Document 65 score: 0.4484 , Document 207 score: 0.4070 , Document 135 score: 0.3162 , Document 232 score: 0.2978 , Document 106 score: 0.2851 , Document 238 score: 0.2817 , Document 163 score: 0.2737 , Document 90 score: 0.2557 , Document 256 score: 0.2451 , Document 775 score: 0.2145 , 
+
+Term frequency (TF) weighting: 
+
+query 1: 
+Document 540 score: 0.3170 , Document 20 score: 0.2694 , Document 523 score: 0.1146 , Document 4 score: 0.1038 , Document 906 score: 0.0995 , Document 244 score: 0.0993 , Document 582 score: 0.0774 , Document 476 score: 0.0735 , Document 321 score: 0.0712 , Document 821 score: 0.0666 , 
+query 2: 
+Document 847 score: 0.5296 , Document 967 score: 0.1159 , Document 191 score: 0.1156 , Document 845 score: 0.0921 , Document 355 score: 0.0888 , Document 853 score: 0.0859 , Document 686 score: 0.0763 , Document 692 score: 0.0697 , Document 970 score: 0.0604 , Document 94 score: 0.0584 , 
+query 3: 
+Document 828 score: 0.3394 , Document 458 score: 0.2625 , Document 13 score: 0.2385 , Document 198 score: 0.2113 , Document 289 score: 0.2047 , Document 968 score: 0.2044 , Document 147 score: 0.2023 , Document 406 score: 0.1997 , Document 673 score: 0.1900 , Document 652 score: 0.1867 , 
+query 4: 
+Document 798 score: 0.4221 , Document 571 score: 0.4020 , Document 643 score: 0.3993 , Document 937 score: 0.3969 , Document 289 score: 0.3931 , Document 286 score: 0.3930 , Document 408 score: 0.3922 , Document 499 score: 0.3909 , Document 236 score: 0.3909 , Document 118 score: 0.3897 , 
+query 5: 
+Document 672 score: 0.3307 , Document 840 score: 0.2355 , Document 339 score: 0.2270 , Document 660 score: 0.2114 , Document 84 score: 0.2078 , Document 30 score: 0.1929 , Document 991 score: 0.1717 , Document 149 score: 0.1485 , Document 960 score: 0.1452 , Document 371 score: 0.1386 , 
+query 6: 
+Document 520 score: 0.5413 , Document 298 score: 0.2746 , Document 177 score: 0.2702 , Document 901 score: 0.2673 , Document 603 score: 0.2606 , Document 615 score: 0.2560 , Document 611 score: 0.2540 , Document 855 score: 0.2535 , Document 618 score: 0.2535 , Document 789 score: 0.2529 , 
+query 7: 
+Document 442 score: 0.3929 , Document 966 score: 0.1994 , Document 844 score: 0.1804 , Document 827 score: 0.1775 , Document 93 score: 0.1706 , Document 752 score: 0.1692 , Document 35 score: 0.1645 , Document 680 score: 0.1644 , Document 496 score: 0.1617 , Document 478 score: 0.1574 , 
+query 8: 
+Document 419 score: 0.4732 , Document 527 score: 0.3610 , Document 153 score: 0.3577 , Document 286 score: 0.3575 , Document 981 score: 0.3532 , Document 571 score: 0.3524 , Document 541 score: 0.3486 , Document 177 score: 0.3469 , Document 952 score: 0.3412 , Document 618 score: 0.3381 , 
+query 9: 
+Document 227 score: 0.4738 , Document 955 score: 0.3777 , Document 774 score: 0.3434 , Document 442 score: 0.3414 , Document 466 score: 0.3167 , Document 479 score: 0.3080 , Document 823 score: 0.3018 , Document 143 score: 0.3015 , Document 241 score: 0.2970 , Document 177 score: 0.2947 , 
+query 10: 
+Document 107 score: 0.2901 , Document 214 score: 0.2560 , Document 966 score: 0.2306 , Document 913 score: 0.2248 , Document 275 score: 0.2184 , Document 239 score: 0.2144 , Document 890 score: 0.2002 , Document 844 score: 0.1976 , Document 827 score: 0.1944 , Document 93 score: 0.1869 , 
+query 11: 
+Document 123 score: 0.4785 , Document 78 score: 0.1955 , Document 790 score: 0.1885 , Document 326 score: 0.1728 , Document 993 score: 0.1432 , Document 442 score: 0.1387 , Document 737 score: 0.1321 , Document 64 score: 0.1264 , Document 331 score: 0.1235 , Document 501 score: 0.1209 , 
+query 12: 
+Document 65 score: 0.4653 , Document 207 score: 0.4058 , Document 135 score: 0.3471 , Document 232 score: 0.3266 , Document 456 score: 0.3235 , Document 106 score: 0.3022 , Document 238 score: 0.2830 , Document 163 score: 0.2817 , Document 775 score: 0.2725 , Document 177 score: 0.2681 , 
+
+Inverse document frequency (IDF) weighting: 
+
+query 1: 
+Document 540 score: 0.3806 , Document 20 score: 0.3452 , Document 906 score: 0.1358 , Document 821 score: 0.1004 , Document 523 score: 0.0951 , Document 307 score: 0.0941 , Document 244 score: 0.0931 , Document 4 score: 0.0826 , Document 19 score: 0.0783 , Document 144 score: 0.0736 , 
+query 2: 
+Document 847 score: 0.7058 , Document 191 score: 0.1867 , Document 355 score: 0.1780 , Document 967 score: 0.1677 , Document 94 score: 0.1338 , Document 853 score: 0.1204 , Document 845 score: 0.1125 , Document 692 score: 0.1081 , Document 686 score: 0.0997 , Document 970 score: 0.0910 , 
+query 3: 
+Document 828 score: 0.2323 , Document 458 score: 0.1717 , Document 406 score: 0.1681 , Document 600 score: 0.1377 , Document 866 score: 0.1296 , Document 453 score: 0.1171 , Document 872 score: 0.1079 , Document 514 score: 0.1025 , Document 98 score: 0.1021 , Document 791 score: 0.0979 , 
+query 4: 
+Document 798 score: 0.3429 , Document 799 score: 0.1442 , Document 346 score: 0.1338 , Document 140 score: 0.1240 , Document 643 score: 0.1089 , Document 587 score: 0.1044 , Document 15 score: 0.1018 , Document 503 score: 0.1010 , Document 684 score: 0.0976 , Document 246 score: 0.0973 , 
+query 5: 
+Document 30 score: 0.3462 , Document 672 score: 0.2866 , Document 840 score: 0.1639 , Document 660 score: 0.1582 , Document 84 score: 0.1437 , Document 991 score: 0.1223 , Document 339 score: 0.1131 , Document 149 score: 0.1068 , Document 960 score: 0.1037 , Document 589 score: 0.1036 , 
+query 6: 
+Document 520 score: 0.7676 , Document 746 score: 0.1321 , Document 707 score: 0.1225 , Document 603 score: 0.1064 , Document 486 score: 0.1001 , Document 615 score: 0.0916 , Document 789 score: 0.0883 , Document 154 score: 0.0876 , Document 583 score: 0.0847 , Document 240 score: 0.0721 , 
+query 7: 
+Document 442 score: 0.5578 , Document 795 score: 0.1155 , Document 427 score: 0.1060 , Document 422 score: 0.0969 , Document 937 score: 0.0775 , Document 961 score: 0.0770 , Document 478 score: 0.0758 , Document 839 score: 0.0719 , Document 865 score: 0.0713 , Document 774 score: 0.0680 , 
+query 8: 
+Document 419 score: 0.5010 , Document 527 score: 0.1633 , Document 286 score: 0.1345 , Document 585 score: 0.1138 , Document 280 score: 0.1067 , Document 542 score: 0.1057 , Document 952 score: 0.0997 , Document 678 score: 0.0976 , Document 599 score: 0.0958 , Document 981 score: 0.0937 , 
+query 9: 
+Document 227 score: 0.4510 , Document 955 score: 0.3332 , Document 774 score: 0.2539 , Document 762 score: 0.1706 , Document 617 score: 0.1621 , Document 864 score: 0.1507 , Document 730 score: 0.1505 , Document 442 score: 0.1476 , Document 426 score: 0.1443 , Document 823 score: 0.1439 , 
+query 10: 
+Document 107 score: 0.4069 , Document 890 score: 0.3903 , Document 275 score: 0.3392 , Document 239 score: 0.3318 , Document 735 score: 0.2506 , Document 913 score: 0.1819 , Document 401 score: 0.1797 , Document 621 score: 0.1639 , Document 634 score: 0.1551 , Document 878 score: 0.1442 , 
+query 11: 
+Document 123 score: 0.6764 , Document 64 score: 0.1443 , Document 416 score: 0.1126 , Document 78 score: 0.0968 , Document 326 score: 0.0908 , Document 247 score: 0.0886 , Document 219 score: 0.0837 , Document 331 score: 0.0755 , Document 73 score: 0.0739 , Document 469 score: 0.0682 , 
+query 12: 
+Document 65 score: 0.4810 , Document 232 score: 0.3700 , Document 207 score: 0.3700 , Document 135 score: 0.3361 , Document 238 score: 0.2537 , Document 642 score: 0.2346 , Document 106 score: 0.2298 , Document 163 score: 0.2258 , Document 775 score: 0.2152 , Document 899 score: 0.1942 , 
+
+Smooth IDF weighting: 
+
+query 1: 
+Document 540 score: 0.3806 , Document 20 score: 0.3452 , Document 906 score: 0.1358 , Document 821 score: 0.1004 , Document 523 score: 0.0951 , Document 307 score: 0.0941 , Document 244 score: 0.0931 , Document 4 score: 0.0826 , Document 19 score: 0.0783 , Document 144 score: 0.0736 , 
+query 2: 
+Document 847 score: 0.7058 , Document 191 score: 0.1867 , Document 355 score: 0.1780 , Document 967 score: 0.1677 , Document 94 score: 0.1338 , Document 853 score: 0.1204 , Document 845 score: 0.1125 , Document 692 score: 0.1081 , Document 686 score: 0.0997 , Document 970 score: 0.0910 , 
+query 3: 
+Document 828 score: 0.2323 , Document 458 score: 0.1717 , Document 406 score: 0.1681 , Document 600 score: 0.1377 , Document 866 score: 0.1296 , Document 453 score: 0.1171 , Document 872 score: 0.1079 , Document 514 score: 0.1025 , Document 98 score: 0.1021 , Document 791 score: 0.0979 , 
+query 4: 
+Document 798 score: 0.3429 , Document 799 score: 0.1442 , Document 346 score: 0.1338 , Document 140 score: 0.1240 , Document 643 score: 0.1089 , Document 587 score: 0.1044 , Document 15 score: 0.1018 , Document 503 score: 0.1010 , Document 684 score: 0.0976 , Document 246 score: 0.0973 , 
+query 5: 
+Document 30 score: 0.3462 , Document 672 score: 0.2866 , Document 840 score: 0.1639 , Document 660 score: 0.1582 , Document 84 score: 0.1437 , Document 991 score: 0.1223 , Document 339 score: 0.1131 , Document 149 score: 0.1068 , Document 960 score: 0.1037 , Document 589 score: 0.1036 , 
+query 6: 
+Document 520 score: 0.7676 , Document 746 score: 0.1321 , Document 707 score: 0.1225 , Document 603 score: 0.1064 , Document 486 score: 0.1001 , Document 615 score: 0.0916 , Document 789 score: 0.0883 , Document 154 score: 0.0876 , Document 583 score: 0.0847 , Document 240 score: 0.0721 , 
+query 7: 
+Document 442 score: 0.5578 , Document 795 score: 0.1155 , Document 427 score: 0.1060 , Document 422 score: 0.0969 , Document 937 score: 0.0775 , Document 961 score: 0.0770 , Document 478 score: 0.0758 , Document 839 score: 0.0719 , Document 865 score: 0.0713 , Document 774 score: 0.0680 , 
+query 8: 
+Document 419 score: 0.5010 , Document 527 score: 0.1633 , Document 286 score: 0.1345 , Document 585 score: 0.1138 , Document 280 score: 0.1067 , Document 542 score: 0.1057 , Document 952 score: 0.0997 , Document 678 score: 0.0976 , Document 599 score: 0.0958 , Document 981 score: 0.0937 , 
+query 9: 
+Document 227 score: 0.4510 , Document 955 score: 0.3332 , Document 774 score: 0.2539 , Document 762 score: 0.1706 , Document 617 score: 0.1621 , Document 864 score: 0.1507 , Document 730 score: 0.1505 , Document 442 score: 0.1476 , Document 426 score: 0.1443 , Document 823 score: 0.1439 , 
+query 10: 
+Document 107 score: 0.4069 , Document 890 score: 0.3903 , Document 275 score: 0.3392 , Document 239 score: 0.3318 , Document 735 score: 0.2506 , Document 913 score: 0.1819 , Document 401 score: 0.1797 , Document 621 score: 0.1639 , Document 634 score: 0.1551 , Document 878 score: 0.1442 , 
+query 11: 
+Document 123 score: 0.6764 , Document 64 score: 0.1443 , Document 416 score: 0.1126 , Document 78 score: 0.0968 , Document 326 score: 0.0908 , Document 247 score: 0.0886 , Document 219 score: 0.0837 , Document 331 score: 0.0755 , Document 73 score: 0.0739 , Document 469 score: 0.0682 , 
+query 12: 
+Document 65 score: 0.4810 , Document 232 score: 0.3700 , Document 207 score: 0.3700 , Document 135 score: 0.3361 , Document 238 score: 0.2537 , Document 642 score: 0.2346 , Document 106 score: 0.2298 , Document 163 score: 0.2258 , Document 775 score: 0.2152 , Document 899 score: 0.1942 , 
